@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.netty.server.ServerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:00:52" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="2.131">
+  <properties/>
+  <testcase name="getListeningSockets" classname="com.netflix.zuul.netty.server.ServerTest" time="2.131"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.netflix.zuul.netty.server.Server - Proxy listening with class io.netty.channel.epoll.EpollServerSocketChannel
+[Test worker] INFO com.netflix.zuul.netty.server.Server - Binding to : 0.0.0.0/0.0.0.0:0
+[Test worker] WARN io.netty.bootstrap.ServerBootstrap - Unknown channel option 'SO_KEEPALIVE' for channel '[id: 0x8dc49cc9]'
+[Test worker] WARN io.netty.bootstrap.ServerBootstrap - Unknown channel option 'TCP_NODELAY' for channel '[id: 0x8dc49cc9]'
+[Test worker] WARN io.netty.bootstrap.ServerBootstrap - Unknown channel option 'SO_LINGER' for channel '[id: 0x8dc49cc9]'
+[Test worker] INFO com.netflix.zuul.netty.server.Server - Proxy listening with class io.netty.channel.epoll.EpollServerSocketChannel
+[Test worker] INFO com.netflix.zuul.netty.server.Server - Binding to : dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com/172.22.66.136:0
+[Test worker] WARN io.netty.bootstrap.ServerBootstrap - Unknown channel option 'SO_KEEPALIVE' for channel '[id: 0x73e97f57]'
+[Test worker] WARN io.netty.bootstrap.ServerBootstrap - Unknown channel option 'TCP_NODELAY' for channel '[id: 0x73e97f57]'
+[Test worker] WARN io.netty.bootstrap.ServerBootstrap - Unknown channel option 'SO_LINGER' for channel '[id: 0x73e97f57]'
+[Test worker] INFO com.netflix.zuul.netty.server.Server - Shutting down Zuul.
+[Test worker] INFO com.netflix.zuul.netty.server.Server - Shutting down
+[Test worker] WARN com.netflix.zuul.netty.server.ClientConnectionsShutdown - Gracefully shutting down all client channels
+[Test worker] WARN com.netflix.zuul.netty.server.ClientConnectionsShutdown - Flagging CLOSE_AFTER_RESPONSE on 0 client channels.
+[Test worker] WARN com.netflix.zuul.netty.server.ClientConnectionsShutdown - Closing remaining active client channels.
+[Test worker] WARN com.netflix.zuul.netty.server.ClientConnectionsShutdown - Waiting for 0 client channels to be closed.
+[Test worker] WARN com.netflix.zuul.netty.server.ClientConnectionsShutdown - 0 client channels closed.
+[Test worker] INFO com.netflix.zuul.netty.server.Server - Shutting down event loops
+[Test worker] INFO com.netflix.zuul.netty.server.Server - Done shutting down
+[Test worker] INFO com.netflix.zuul.netty.server.Server - Completed zuul shutdown.
+]]></system-err>
+</testsuite>

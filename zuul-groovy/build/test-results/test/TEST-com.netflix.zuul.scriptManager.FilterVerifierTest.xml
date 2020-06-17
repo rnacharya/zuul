@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.scriptManager.FilterVerifierTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:00:58" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="0.377">
+  <properties/>
+  <testcase name="testZuulFilterInstance" classname="com.netflix.zuul.scriptManager.FilterVerifierTest" time="0.246"/>
+  <testcase name="testCompile" classname="com.netflix.zuul.scriptManager.FilterVerifierTest" time="0.076"/>
+  <testcase name="testVerify" classname="com.netflix.zuul.scriptManager.FilterVerifierTest" time="0.054"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

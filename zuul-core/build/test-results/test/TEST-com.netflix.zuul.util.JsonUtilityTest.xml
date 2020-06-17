@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.util.JsonUtilityTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:00:55" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="0.002">
+  <properties/>
+  <testcase name="testMapAndList" classname="com.netflix.zuul.util.JsonUtilityTest" time="0.001"/>
+  <testcase name="testSimpleOne" classname="com.netflix.zuul.util.JsonUtilityTest" time="0.0"/>
+  <testcase name="testSimpleTwo" classname="com.netflix.zuul.util.JsonUtilityTest" time="0.0"/>
+  <testcase name="testArrayOne" classname="com.netflix.zuul.util.JsonUtilityTest" time="0.0"/>
+  <testcase name="testArrayTwo" classname="com.netflix.zuul.util.JsonUtilityTest" time="0.0"/>
+  <testcase name="testArrayOfMaps" classname="com.netflix.zuul.util.JsonUtilityTest" time="0.0"/>
+  <testcase name="testCollectionOne" classname="com.netflix.zuul.util.JsonUtilityTest" time="0.0"/>
+  <testcase name="testNestedMapOne" classname="com.netflix.zuul.util.JsonUtilityTest" time="0.0"/>
+  <testcase name="testNestedMapTwo" classname="com.netflix.zuul.util.JsonUtilityTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,6 @@
+com.netflix:zuul:2.1.8-SNAPSHOT
+com.netflix.zuul:zuul-core:2.1.8-SNAPSHOT
+com.netflix.zuul:zuul-groovy:2.1.8-SNAPSHOT
+com.netflix.zuul:zuul-guice:2.1.8-SNAPSHOT
+com.netflix.zuul:zuul-processor:2.1.8-SNAPSHOT
+com.netflix.zuul:zuul-sample:2.1.8-SNAPSHOT

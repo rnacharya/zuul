@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.netty.server.SocketAddressPropertyTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:00:52" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="0.009">
+  <properties/>
+  <testcase name="defaultValueWorks" classname="com.netflix.zuul.netty.server.SocketAddressPropertyTest" time="0.005"/>
+  <testcase name="bindTypeWorks_ipv4Local" classname="com.netflix.zuul.netty.server.SocketAddressPropertyTest" time="0.0"/>
+  <testcase name="bindTypeWorks_ipv6Local" classname="com.netflix.zuul.netty.server.SocketAddressPropertyTest" time="0.0"/>
+  <testcase name="failsOnBadPort" classname="com.netflix.zuul.netty.server.SocketAddressPropertyTest" time="0.001"/>
+  <testcase name="bindTypeWorks_anyLocal" classname="com.netflix.zuul.netty.server.SocketAddressPropertyTest" time="0.001"/>
+  <testcase name="bindTypeWorks_ipv4Any" classname="com.netflix.zuul.netty.server.SocketAddressPropertyTest" time="0.0"/>
+  <testcase name="bindTypeWorks_ipv6Any" classname="com.netflix.zuul.netty.server.SocketAddressPropertyTest" time="0.0"/>
+  <testcase name="failsOnMissingEqual" classname="com.netflix.zuul.netty.server.SocketAddressPropertyTest" time="0.001"/>
+  <testcase name="bindTypeWorks_udsWithEquals" classname="com.netflix.zuul.netty.server.SocketAddressPropertyTest" time="0.0"/>
+  <testcase name="bindTypeWorks_blank" classname="com.netflix.zuul.netty.server.SocketAddressPropertyTest" time="0.0"/>
+  <testcase name="bindTypeWorks_any" classname="com.netflix.zuul.netty.server.SocketAddressPropertyTest" time="0.001"/>
+  <testcase name="bindTypeWorks_uds" classname="com.netflix.zuul.netty.server.SocketAddressPropertyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

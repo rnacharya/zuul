@@ -1,0 +1,80 @@
+com/netflix/zuul/stats/RouteStatusCodeMonitorTest.java
+ com.netflix.zuul.stats.RouteStatusCodeMonitorTest
+com/netflix/zuul/stats/StatsManagerTest.java
+ com.netflix.zuul.stats.StatsManagerTest
+com/netflix/zuul/message/http/HttpResponseMessageImplTest.java
+ com.netflix.zuul.message.http.HttpResponseMessageImplTest
+com/netflix/zuul/FilterFileManagerTest.java
+ com.netflix.zuul.FilterFileManagerTest
+com/netflix/zuul/context/DebugTest.java
+ com.netflix.zuul.context.DebugTest
+com/netflix/zuul/util/VipUtilsTest.java
+ com.netflix.zuul.util.VipUtilsTest
+com/netflix/zuul/context/SessionContextTest.java
+ com.netflix.zuul.context.SessionContextTest
+com/netflix/zuul/passport/CurrentPassportTest.java
+ com.netflix.zuul.passport.CurrentPassportTest
+com/netflix/zuul/util/HttpUtilsTest.java
+ com.netflix.zuul.util.HttpUtilsTest
+com/netflix/netty/common/SourceAddressChannelHandlerTest.java
+ com.netflix.netty.common.SourceAddressChannelHandlerTest
+com/netflix/zuul/netty/server/ServerTest.java
+ com.netflix.zuul.netty.server.ServerTest
+ com.netflix.zuul.netty.server.ServerTest$1
+ com.netflix.zuul.netty.server.ServerTest$2
+com/netflix/zuul/message/HeadersTest.java
+ com.netflix.zuul.message.HeadersTest
+com/netflix/zuul/netty/server/SocketAddressPropertyTest.java
+ com.netflix.zuul.netty.server.SocketAddressPropertyTest
+com/netflix/zuul/com/netflix/zuul/netty/server/push/PushConnectionTest.java
+ com.netflix.zuul.com.netflix.zuul.netty.server.push.PushConnectionTest
+com/netflix/zuul/stats/ErrorStatsManagerTest.java
+ com.netflix.zuul.stats.ErrorStatsManagerTest
+com/netflix/zuul/DynamicFilterLoaderTest.java
+ com.netflix.zuul.DynamicFilterLoaderTest
+ com.netflix.zuul.DynamicFilterLoaderTest$TestZuulFilter
+com/netflix/netty/common/proxyprotocol/ElbProxyProtocolChannelHandlerTest.java
+ com.netflix.netty.common.proxyprotocol.ElbProxyProtocolChannelHandlerTest
+com/netflix/zuul/StaticFilterLoaderTest.java
+ com.netflix.zuul.StaticFilterLoaderTest
+ com.netflix.zuul.StaticFilterLoaderTest$DummyFilter1
+ com.netflix.zuul.StaticFilterLoaderTest$DummyFilter2
+ com.netflix.zuul.StaticFilterLoaderTest$DummyFilter22
+com/netflix/netty/common/metrics/InstrumentedResourceLeakDetectorTest.java
+ com.netflix.netty.common.metrics.InstrumentedResourceLeakDetectorTest
+com/netflix/zuul/netty/connectionpool/DefaultClientChannelManagerTest.java
+ com.netflix.zuul.netty.connectionpool.DefaultClientChannelManagerTest
+com/netflix/zuul/stats/ErrorStatsDataTest.java
+ com.netflix.zuul.stats.ErrorStatsDataTest
+com/netflix/zuul/netty/server/ssl/SslHandshakeInfoHandlerTest.java
+ com.netflix.zuul.netty.server.ssl.SslHandshakeInfoHandlerTest
+ com.netflix.zuul.netty.server.ssl.SslHandshakeInfoHandlerTest$1
+com/netflix/zuul/message/http/HttpQueryParamsTest.java
+ com.netflix.zuul.message.http.HttpQueryParamsTest
+com/netflix/netty/common/proxyprotocol/StripUntrustedProxyHeadersHandlerTest.java
+ com.netflix.netty.common.proxyprotocol.StripUntrustedProxyHeadersHandlerTest
+com/netflix/zuul/util/ProxyUtilsTest.java
+ com.netflix.zuul.util.ProxyUtilsTest
+com/netflix/zuul/filters/BaseFilterTest.java
+ com.netflix.zuul.filters.BaseFilterTest
+ com.netflix.zuul.filters.BaseFilterTest$1TestZuulFilter
+com/netflix/zuul/netty/server/BaseZuulChannelInitializerTest.java
+ com.netflix.zuul.netty.server.BaseZuulChannelInitializerTest
+ com.netflix.zuul.netty.server.BaseZuulChannelInitializerTest$1
+ com.netflix.zuul.netty.server.BaseZuulChannelInitializerTest$2
+com/netflix/zuul/message/http/HttpRequestMessageImplTest.java
+ com.netflix.zuul.message.http.HttpRequestMessageImplTest
+ com.netflix.zuul.message.http.HttpRequestMessageImplTest$1
+ com.netflix.zuul.message.http.HttpRequestMessageImplTest$2
+ com.netflix.zuul.message.http.HttpRequestMessageImplTest$3
+ com.netflix.zuul.message.http.HttpRequestMessageImplTest$4
+com/netflix/zuul/netty/server/ClientRequestReceiverTest.java
+ com.netflix.zuul.netty.server.ClientRequestReceiverTest
+com/netflix/zuul/message/ZuulMessageImplTest.java
+ com.netflix.zuul.message.ZuulMessageImplTest
+com/netflix/zuul/util/JsonUtilityTest.java
+ com.netflix.zuul.util.JsonUtilityTest
+com/netflix/zuul/filters/common/GZipResponseFilterTest.java
+ com.netflix.zuul.filters.common.GZipResponseFilterTest
+com/netflix/zuul/netty/ssl/ClientSslContextFactoryTest.java
+ com.netflix.zuul.netty.ssl.ClientSslContextFactoryTest

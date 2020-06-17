@@ -1,0 +1,6 @@
+com.netflix.zuul.filters.processor.OuterClassFilter
+com.netflix.zuul.filters.processor.TopLevelFilter
+com.netflix.zuul.filters.processor.TopLevelFilter$StaticSubclassFilter
+com.netflix.zuul.filters.processor.TopLevelFilter$SubclassFilter
+com.netflix.zuul.filters.processor.override.SubpackageFilter
+com.netflix.zuul.filters.processor.subpackage.OverrideFilter

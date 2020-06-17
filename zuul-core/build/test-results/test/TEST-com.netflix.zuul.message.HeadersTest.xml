@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.message.HeadersTest" tests="35" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:00:55" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="0.015">
+  <properties/>
+  <testcase name="containsValue" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="getFirst_normalizesName" classname="com.netflix.zuul.message.HeadersTest" time="0.001"/>
+  <testcase name="setIfAbsent" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="setIfAbsentKeepsExisting" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="copyOf" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="testCaseInsensitiveKeys_SetIfAbsent" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="getAll" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="keySet" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="testCaseInsensitiveKeys_Add" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="testCaseInsensitiveKeys_Set" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="putAll" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="getFirst_returnsDefault" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="remove" classname="com.netflix.zuul.message.HeadersTest" time="0.001"/>
+  <testcase name="remove_headerName" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="setIfAbsentFailsOnNull" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="getFirst_headerName_normalizesName" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="forEachNormalised" classname="com.netflix.zuul.message.HeadersTest" time="0.007"/>
+  <testcase name="contains" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="removeIf" classname="com.netflix.zuul.message.HeadersTest" time="0.001"/>
+  <testcase name="removeEmpty" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="setIfAbsentFailsOnNull_headerName" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="add" classname="com.netflix.zuul.message.HeadersTest" time="0.001"/>
+  <testcase name="getFirst_headerName_returnsDefault" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="setClearsExisting" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="setNullIsEmtpy_headerName" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="getFirst_returnsNull" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="setClearsExisting_headerName" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="getAll_headerName" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="testCaseInsensitiveKeys_PutAll" classname="com.netflix.zuul.message.HeadersTest" time="0.001"/>
+  <testcase name="setNullIsEmtpy" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="setIfAbsent_headerName" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="setIfAbsentKeepsExisting_headerName" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="removeEmpty_headerName" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="getFirst_headerName_returnsNull" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <testcase name="add_headerName" classname="com.netflix.zuul.message.HeadersTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

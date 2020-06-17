@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.message.http.HttpRequestMessageImplTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:00:55" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="0.17">
+  <properties/>
+  <testcase name="testCleanCookieHeaders" classname="com.netflix.zuul.message.http.HttpRequestMessageImplTest" time="0.0"/>
+  <testcase name="testPathAndQuery" classname="com.netflix.zuul.message.http.HttpRequestMessageImplTest" time="0.0"/>
+  <testcase name="shouldPreferClientDestPortWhenInitialized" classname="com.netflix.zuul.message.http.HttpRequestMessageImplTest" time="0.086"/>
+  <testcase name="testGetOriginalHost" classname="com.netflix.zuul.message.http.HttpRequestMessageImplTest" time="0.001"/>
+  <testcase name="testGetOriginalPort" classname="com.netflix.zuul.message.http.HttpRequestMessageImplTest" time="0.0"/>
+  <testcase name="getOriginalHost_failsOnUnbracketedIpv6Address" classname="com.netflix.zuul.message.http.HttpRequestMessageImplTest" time="0.001"/>
+  <testcase name="testReconstructURI" classname="com.netflix.zuul.message.http.HttpRequestMessageImplTest" time="0.0"/>
+  <testcase name="getOriginalPort_fallsBackOnUnbracketedIpv6Address" classname="com.netflix.zuul.message.http.HttpRequestMessageImplTest" time="0.0"/>
+  <testcase name="testReconstructURI_immutable" classname="com.netflix.zuul.message.http.HttpRequestMessageImplTest" time="0.08"/>
+  <testcase name="testOriginalRequestInfo" classname="com.netflix.zuul.message.http.HttpRequestMessageImplTest" time="0.0"/>
+  <testcase name="testPathAndQuery_immutable" classname="com.netflix.zuul.message.http.HttpRequestMessageImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.guice.GuiceFilterFactoryIntegTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:01:00" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="0.063">
+  <properties/>
+  <testcase name="ctorInjection" classname="com.netflix.zuul.guice.GuiceFilterFactoryIntegTest" time="0.061"/>
+  <testcase name="fieldInjection" classname="com.netflix.zuul.guice.GuiceFilterFactoryIntegTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>

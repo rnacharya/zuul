@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.passport.CurrentPassportTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:00:55" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="0.002">
+  <properties/>
+  <testcase name="test_findEachPairOf_wrongOrder" classname="com.netflix.zuul.passport.CurrentPassportTest" time="0.0"/>
+  <testcase name="test_findEachPairOf_1pair" classname="com.netflix.zuul.passport.CurrentPassportTest" time="0.0"/>
+  <testcase name="testFindBackwards" classname="com.netflix.zuul.passport.CurrentPassportTest" time="0.0"/>
+  <testcase name="test_findEachPairOf_noneFound" classname="com.netflix.zuul.passport.CurrentPassportTest" time="0.0"/>
+  <testcase name="test_findEachPairOf_2pairs" classname="com.netflix.zuul.passport.CurrentPassportTest" time="0.001"/>
+  <testcase name="test_findEachPairOf_endButNoStart" classname="com.netflix.zuul.passport.CurrentPassportTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

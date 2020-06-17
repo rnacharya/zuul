@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.netty.common.proxyprotocol.StripUntrustedProxyHeadersHandlerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:00:43" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="0.758">
+  <properties/>
+  <testcase name="allow_always" classname="com.netflix.netty.common.proxyprotocol.StripUntrustedProxyHeadersHandlerTest" time="0.74"/>
+  <testcase name="allow_mtls_noCert" classname="com.netflix.netty.common.proxyprotocol.StripUntrustedProxyHeadersHandlerTest" time="0.003"/>
+  <testcase name="strip_match" classname="com.netflix.netty.common.proxyprotocol.StripUntrustedProxyHeadersHandlerTest" time="0.001"/>
+  <testcase name="blacklist_match_casing" classname="com.netflix.netty.common.proxyprotocol.StripUntrustedProxyHeadersHandlerTest" time="0.006"/>
+  <testcase name="allow_never" classname="com.netflix.netty.common.proxyprotocol.StripUntrustedProxyHeadersHandlerTest" time="0.001"/>
+  <testcase name="blacklist_noMatch" classname="com.netflix.netty.common.proxyprotocol.StripUntrustedProxyHeadersHandlerTest" time="0.001"/>
+  <testcase name="blacklist_match" classname="com.netflix.netty.common.proxyprotocol.StripUntrustedProxyHeadersHandlerTest" time="0.002"/>
+  <testcase name="allow_mtls_cert" classname="com.netflix.netty.common.proxyprotocol.StripUntrustedProxyHeadersHandlerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[Test worker] INFO com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[Test worker] INFO com.netflix.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@55b6f3b9
+]]></system-err>
+</testsuite>

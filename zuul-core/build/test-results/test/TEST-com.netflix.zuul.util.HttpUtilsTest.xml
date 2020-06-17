@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.util.HttpUtilsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:00:55" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="0.0">
+  <properties/>
+  <testcase name="detectsGzipAmongOtherEncodings" classname="com.netflix.zuul.util.HttpUtilsTest" time="0.0"/>
+  <testcase name="detectsNonGzip" classname="com.netflix.zuul.util.HttpUtilsTest" time="0.0"/>
+  <testcase name="detectsGzip" classname="com.netflix.zuul.util.HttpUtilsTest" time="0.0"/>
+  <testcase name="stripMaliciousHeaderChars" classname="com.netflix.zuul.util.HttpUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

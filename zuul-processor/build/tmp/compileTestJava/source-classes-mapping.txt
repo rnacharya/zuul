@@ -1,0 +1,17 @@
+com/netflix/zuul/filters/processor/FilterProcessorTest.java
+ com.netflix.zuul.filters.processor.FilterProcessorTest
+com/netflix/zuul/filters/processor/TestFilter.java
+ com.netflix.zuul.filters.processor.TestFilter
+com/netflix/zuul/filters/processor/override/package-info.java
+ com.netflix.zuul.filters.processor.override.package-info
+com/netflix/zuul/filters/processor/override/SubpackageFilter.java
+ com.netflix.zuul.filters.processor.override.SubpackageFilter
+com/netflix/zuul/filters/processor/TopLevelFilter.java
+ com.netflix.zuul.filters.processor.OuterClassFilter
+ com.netflix.zuul.filters.processor.TopLevelFilter
+ com.netflix.zuul.filters.processor.TopLevelFilter$1MethodClassFilter
+ com.netflix.zuul.filters.processor.TopLevelFilter$AbstractSubclassFilter
+ com.netflix.zuul.filters.processor.TopLevelFilter$StaticSubclassFilter
+ com.netflix.zuul.filters.processor.TopLevelFilter$SubclassFilter
+com/netflix/zuul/filters/processor/subpackage/OverrideFilter.java
+ com.netflix.zuul.filters.processor.subpackage.OverrideFilter

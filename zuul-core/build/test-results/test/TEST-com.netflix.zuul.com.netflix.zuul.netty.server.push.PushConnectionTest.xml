@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.com.netflix.zuul.netty.server.push.PushConnectionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:00:44" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="7.006">
+  <properties/>
+  <testcase name="testOneMessagePerSecond" classname="com.netflix.zuul.com.netflix.zuul.netty.server.push.PushConnectionTest" time="5.004"/>
+  <testcase name="testMessagesInBatches" classname="com.netflix.zuul.com.netflix.zuul.netty.server.push.PushConnectionTest" time="2.0"/>
+  <testcase name="testThreeMessagesInSuccession" classname="com.netflix.zuul.com.netflix.zuul.netty.server.push.PushConnectionTest" time="0.001"/>
+  <testcase name="testFourMessagesInSuccession" classname="com.netflix.zuul.com.netflix.zuul.netty.server.push.PushConnectionTest" time="0.0"/>
+  <testcase name="testFirstThreeMessagesSuccess" classname="com.netflix.zuul.com.netflix.zuul.netty.server.push.PushConnectionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

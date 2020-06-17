@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.netty.common.proxyprotocol.ElbProxyProtocolChannelHandlerTest" tests="7" skipped="1" failures="0" errors="0" timestamp="2020-06-17T23:00:44" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="0.125">
+  <properties/>
+  <testcase name="negotiateProxy_ppv1_ipv4" classname="com.netflix.netty.common.proxyprotocol.ElbProxyProtocolChannelHandlerTest" time="0.119"/>
+  <testcase name="negotiateProxy_ppv1_ipv6" classname="com.netflix.netty.common.proxyprotocol.ElbProxyProtocolChannelHandlerTest" time="0.002"/>
+  <testcase name="negotiateProxy_ppv2_ipv4" classname="com.netflix.netty.common.proxyprotocol.ElbProxyProtocolChannelHandlerTest" time="0.001"/>
+  <testcase name="passThrough_ProxyProtocolEnabled_nonProxyBytes" classname="com.netflix.netty.common.proxyprotocol.ElbProxyProtocolChannelHandlerTest" time="0.0"/>
+  <testcase name="detectsSplitPpv1Message" classname="com.netflix.netty.common.proxyprotocol.ElbProxyProtocolChannelHandlerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="extraDataForwarded" classname="com.netflix.netty.common.proxyprotocol.ElbProxyProtocolChannelHandlerTest" time="0.001"/>
+  <testcase name="noProxy" classname="com.netflix.netty.common.proxyprotocol.ElbProxyProtocolChannelHandlerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

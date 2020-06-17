@@ -1,0 +1,4 @@
+com/netflix/zuul/guice/GuiceFilterFactory.java
+ com.netflix.zuul.guice.GuiceFilterFactory
+com/netflix/zuul/init/ZuulFiltersModule.java
+ com.netflix.zuul.init.ZuulFiltersModule

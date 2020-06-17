@@ -1,0 +1,16 @@
+com/netflix/zuul/guice/TestGuiceFieldFilter.java
+ com.netflix.zuul.guice.TestGuiceFieldFilter
+com/netflix/zuul/guice/GuiceFilterFactoryIntegTest.java
+ com.netflix.zuul.guice.GuiceFilterFactoryIntegTest
+com/netflix/zuul/init/ZuulFiltersModuleIntegTest.java
+ com.netflix.zuul.init.ZuulFiltersModuleIntegTest
+com/netflix/zuul/init/ZuulFiltersModuleTest.java
+ com.netflix.zuul.init.ZuulFiltersModuleTest
+com/netflix/zuul/init/InitTestModule.java
+ com.netflix.zuul.init.InitTestModule
+com/netflix/zuul/guice/TestGuiceConstructorFilter.java
+ com.netflix.zuul.guice.TestGuiceConstructorFilter
+com/netflix/zuul/init/TestZuulFilter.java
+ com.netflix.zuul.init.TestZuulFilter
+com/netflix/zuul/init2/TestZuulFilter2.java
+ com.netflix.zuul.init2.TestZuulFilter2

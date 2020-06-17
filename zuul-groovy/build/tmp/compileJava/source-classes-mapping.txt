@@ -1,0 +1,8 @@
+com/netflix/zuul/scriptManager/FilterVerifier.java
+ com.netflix.zuul.scriptManager.FilterVerifier
+com/netflix/zuul/groovy/GroovyFileFilter.java
+ com.netflix.zuul.groovy.GroovyFileFilter
+com/netflix/zuul/scriptManager/FilterInfo.java
+ com.netflix.zuul.scriptManager.FilterInfo
+com/netflix/zuul/groovy/GroovyCompiler.java
+ com.netflix.zuul.groovy.GroovyCompiler

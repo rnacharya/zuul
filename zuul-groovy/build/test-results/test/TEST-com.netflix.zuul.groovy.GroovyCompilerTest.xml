@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.groovy.GroovyCompilerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:00:57" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="1.223">
+  <properties/>
+  <testcase name="testLoadGroovyFromString" classname="com.netflix.zuul.groovy.GroovyCompilerTest" time="1.223"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>

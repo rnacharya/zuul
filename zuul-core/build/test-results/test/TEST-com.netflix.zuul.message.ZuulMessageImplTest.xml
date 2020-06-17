@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.message.ZuulMessageImplTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-06-17T23:00:55" hostname="dev-dsk-racachar-2a-26e049c6.us-west-2.amazon.com" time="0.003">
+  <properties/>
+  <testcase name="testSetBodyAsTextGetBody" classname="com.netflix.zuul.message.ZuulMessageImplTest" time="0.0"/>
+  <testcase name="testMultiSetBodyGetBody" classname="com.netflix.zuul.message.ZuulMessageImplTest" time="0.0"/>
+  <testcase name="testMultiSetBodyAsTextGetBody" classname="com.netflix.zuul.message.ZuulMessageImplTest" time="0.0"/>
+  <testcase name="testClone" classname="com.netflix.zuul.message.ZuulMessageImplTest" time="0.001"/>
+  <testcase name="testBufferBody3GetBody" classname="com.netflix.zuul.message.ZuulMessageImplTest" time="0.001"/>
+  <testcase name="testSetBodyAsTextGetBodyAsText" classname="com.netflix.zuul.message.ZuulMessageImplTest" time="0.0"/>
+  <testcase name="testBufferBody3GetBodyAsText" classname="com.netflix.zuul.message.ZuulMessageImplTest" time="0.0"/>
+  <testcase name="testBufferBody2GetBody" classname="com.netflix.zuul.message.ZuulMessageImplTest" time="0.0"/>
+  <testcase name="testSetBodyGetBody" classname="com.netflix.zuul.message.ZuulMessageImplTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
